@@ -1,2 +1,2 @@
 # Early_Diabetes_Detection
-Supervised machine learning project to predict diabetes status
+This project is to build a supervised machine learning model to predict diabetes status based on some medical conditions/factors that a patient has
